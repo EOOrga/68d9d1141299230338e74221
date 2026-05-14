@@ -1,0 +1,6 @@
+using $gpc-app-builder  create this app
+app title: NYER GILLES JEAN BAPTISTE
+app idea: An operations-focused app offering facility booking, compliance reporting, supply ordering, and expense tracking to streamline daily business tasks.
+company name: NYER GILLES JEAN BAPTISTE
+email address: [email to be provided later]
+the two icon and featured graphics contained in docs folder

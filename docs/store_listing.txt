@@ -1,0 +1,15 @@
+App name
+NYER GILLES JEAN BAPTISTE
+
+Short description
+Manage local bookings, compliance, supplies, and expense tracking.
+
+Full description
+NYER GILLES JEAN BAPTISTE helps small business operators keep daily work organized without accounts, network setup, or external services.
+
+Use the app to create facility booking tasks, compliance reports, supply orders, and expense records. The dashboard highlights open work, priority items, and pending costs, while detail screens help move tasks and expenses through a clear local workflow.
+
+All records and preferences stay on the Android device, making the app useful for operators who want a focused workspace for routine business controls.
+
+Category
+Business
