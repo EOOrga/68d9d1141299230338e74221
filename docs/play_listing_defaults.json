@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "applications": {
+    "com.taziggg100.nyer_gilles_ops": {
+      "title": "NYER GILLES JEAN BAPTISTE",
+      "short_description": "Manage local bookings, compliance, supplies, and expense tracking.",
+      "full_description": "NYER GILLES JEAN BAPTISTE helps small business operators keep daily work organized without accounts, network setup, or external services.\n\nUse the app to create facility booking tasks, compliance reports, supply orders, and expense records. The dashboard highlights open work, priority items, and pending costs, while detail screens help move tasks and expenses through a clear local workflow.\n\nAll records and preferences stay on the Android device, making the app useful for operators who want a focused workspace for routine business controls.",
+      "source_screenshots": [
+        "docs/screens/1.png",
+        "docs/screens/2.png",
+        "docs/screens/3.png"
+      ],
+      "generated_from": "existing repository listing metadata and README",
+      "generated_at": "2026-10-02T21:28:50.549457+00:00"
+    }
+  }
+}
